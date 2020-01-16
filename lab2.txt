@@ -1,0 +1,6 @@
+Q1. s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+Q2. Server - create a socket and bind to host, accept the connection
+		Client - create a socket and connect to the IP address
+Q3. s.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
+Q4. addr??? IP???
+Q5. An empty string is returned after the HTTP request
